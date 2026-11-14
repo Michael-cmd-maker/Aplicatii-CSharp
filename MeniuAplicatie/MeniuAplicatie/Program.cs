@@ -3,7 +3,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("APLICATIE GESTIUNE");
+        Console.WriteLine("=== APLICATIE GESTIUNE ===");
         Console.WriteLine("1. Clienti");
         Console.WriteLine("2. Programari");
         Console.WriteLine("3. Rapoarte");
